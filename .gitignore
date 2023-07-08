@@ -1,0 +1,2 @@
+*.json
+/core/__pycache__/
